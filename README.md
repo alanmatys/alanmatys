@@ -1,4 +1,5 @@
 # Engineer & Data Scientist
+## Msc Business Analytics - MA Data Science - Msc(5yrs equivalent) Industrial Engineering
 
 ## Interests
 
