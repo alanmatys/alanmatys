@@ -78,8 +78,11 @@ Worked with Prof. Guido Sandleris (Columbia University, former President of the 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=lightgbm&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logo=catboost&logoColor=black)
 
 ### Infrastructure & Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
@@ -89,6 +92,8 @@ Worked with Prof. Guido Sandleris (Columbia University, former President of the 
 
 ### Visualization & BI
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Bokeh](https://img.shields.io/badge/Bokeh-E1477E?style=for-the-badge&logo=bokeh&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Domains
@@ -104,19 +109,6 @@ Worked with Prof. Guido Sandleris (Columbia University, former President of the 
 | **MSc in Business Analytics** | Torcuato Di Tella University, Argentina | 2020 - 2021 |
 | **PG in Quantitative Finance** | UCEMA University, Argentina | 2024 |
 | **MEng in Industrial Engineering** | Catholic University of Argentina (UCA) | 2012 - 2018 |
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alanmatys&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmatys&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alanmatys&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 ---
 
