@@ -1,7 +1,7 @@
 ## Hi, I'm Alan 👋
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Sr+Data+Scientist+%40+TRM+Labs;ML+Systems+%7C+Fintech+%7C+Blockchain;Building+End-to-End+ML+Pipelines" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Sr+Data+Scientist+%40+TRM+Labs;AI+Engineer+%7C+ML+Systems;Fintech+%7C+Blockchain+%7C+Risk;Building+End-to-End+ML+Pipelines" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
